@@ -15,12 +15,14 @@ My public projects live under **[JCOM Labs](https://github.com/jcomlabs)**:
   harness with governed memory, skills, effect-aware fallback, and fusion;
 - **[Window Swap](https://github.com/jcomlabs/window-swap)** — a focused
   Windows utility for snapped-window workflows.
+- **[Code Hangar](https://github.com/jcomlabs/code-hangar)** — a local-first
+  context engine for inspecting AI-assisted projects across tools, sessions,
+  files, and recorded changes.
 - **[MoE Autopilot Studio](https://github.com/jcomlabs/moe-autopilot-studio)** —
   a Windows-first evidence lab for measured MoE placement decisions and the
   reproducible companion to my broader MoE Autopilot research.
 
-Code Hangar and the core MoE Autopilot research repository are being prepared
-for public release.
+The core MoE Autopilot research repository is being prepared for public release.
 
 ## Engineering principles
 
