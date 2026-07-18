@@ -9,13 +9,14 @@ trust boundaries, reproducible evidence, and practical human control.
 
 ## Featured work
 
-I am preparing the first public releases under
-**[JCOM Labs](https://github.com/jcomlabs)**:
+My public projects live under **[JCOM Labs](https://github.com/jcomlabs)**:
 
-- **Code Hangar** — a local-first context engine for reusable project knowledge;
-- **Axiomux** — a multi-provider agent harness with memory, skills, and fusion;
-- **MoE Autopilot** — adaptive MoE expert placement for consumer GPUs;
-- **Window Swap** — a focused Windows utility for snapped-window workflows.
+- **[Axiomux](https://github.com/jcomlabs/axiomux)** — a multi-provider agent
+  harness with governed memory, skills, effect-aware fallback, and fusion;
+- **[Window Swap](https://github.com/jcomlabs/window-swap)** — a focused
+  Windows utility for snapped-window workflows.
+
+Code Hangar and MoE Autopilot are being prepared for public release.
 
 ## Engineering principles
 
